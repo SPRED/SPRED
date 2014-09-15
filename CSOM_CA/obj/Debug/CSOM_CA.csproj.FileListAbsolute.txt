@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_CA\bin\Debug\CSOM_CA.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_CA\bin\Debug\CSOM_CA.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_CA\bin\Debug\CSOM_CA.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_CA\obj\Debug\CSOM_CA.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_CA\obj\Debug\CSOM_CA.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_CA\obj\Debug\CSOM_CA.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_WF\bin\Debug\CSOM_WF.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_WF\bin\Debug\CSOM_WF.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_WF\bin\Debug\CSOM_WF.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_WF\obj\Debug\CSOM_WF.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_WF\obj\Debug\CSOM_WF.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_WF\obj\Debug\CSOM_WF.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_WF\obj\Debug\CSOM_WF.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_WF\obj\Debug\CSOM_WF.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\SPRED\CSOM_WF\obj\Debug\CSOM_WF.Form1.resources
